@@ -1,1 +1,1 @@
-# Getting started with the Raspberry Pi Pico 
+# Getting started with the Raspberry Pi Pico
